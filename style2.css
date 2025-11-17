@@ -1,0 +1,31 @@
+.search-recipes {
+    background-color: aquamarine;
+}
+
+.search-recipes-header{
+    color: brown;
+    font-size: 50px;
+}
+
+.search-result{
+    background-color: rgb(141, 128, 128);
+}
+.new-div{
+    color: rgb(19, 255, 19);
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.button{
+    border: 3px solid red;
+    border-radius: 8px;
+    background: none;
+    color: blue;
+    font-size: 40px;
+    cursor: pointer;
+}
+.button:hover{
+    color:red;
+}
